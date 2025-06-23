@@ -1,0 +1,18 @@
+{
+  "name": "unit_tetst_2",
+  "version": "1.0.0",
+  "main": "jest.cinfig.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "test:watch": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.27.2",
+    "@babel/core": "^7.27.4",
+    "@babel/preset-env": "^7.27.2",
+    "jest": "^30.0.2"
+  }
+}
